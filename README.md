@@ -1,4 +1,0 @@
-server
-======
-
-Exam Project
